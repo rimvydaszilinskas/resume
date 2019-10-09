@@ -1,0 +1,36 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+theme = "resume"
+
+[params]
+    firstName = "Rimvydas"
+    lastName = "Zilinskas"
+    address = "Copenhagen, Denmark"
+    phone = "+45 27 28 01 36"
+    contactNote = "Developer"
+    email = "rimvydas.zilinskas@yahoo.com"
+    description = "Junior Software Developer"
+
+    showSkills = true
+    showPorjects = true
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showQR = true
+
+    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://linkedin.com/in/rzilinskas/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/rimvydaszilinskas/"
+
+[outputs]
+    home = ["HTML", "JSON"]

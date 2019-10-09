@@ -1,0 +1,62 @@
+[
+    {
+        "grouping": "Languages",
+        "skills": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "Dart",
+            "C/C++",
+            "C#"
+        ]
+    },
+    {
+        "grouping": "Frameworks",
+        "skills": [
+            "Django",
+            "Spring MVC",
+            "NodeJS",
+            "Flutter",
+            "React",
+            "Express",
+            "Flask",
+            "Webpack"
+        ]
+    },
+    {
+        "grouping": "Architecture",
+        "skills": [
+            "RESTful APIs",
+            "Microservices",
+            "IoT"
+        ]
+    },
+    {
+        "grouping": "Databases",
+        "skills": [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB",
+            "Redis"
+        ]
+    },
+    {
+        "grouping": "Operating Systems",
+        "skills": [
+            "Ubuntu",
+            "Windows"
+        ]
+    },
+    
+    {
+        "grouping": "Cloud",
+        "skills": [
+            "Google Cloud Platform",
+            "AWS",
+            "Docker",
+            "CI/CD",
+            "Travis CI"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Junior Software Developer",
+        "company": "Ticketbutler",
+        "summary": "Backend system development using Django, PostgreSQL, Redis, Celery. Development of platform extending label printer.",
+        "range": "March 2019 - Present"
+    },
+    {
+        "role": "Developer",
+        "company": "Aim Robotics",
+        "summary": "Development of Universal Robots addon for industrial dispensing solutions.",
+        "range": "March 2014 - February 2016"
+    },
+    {
+        "role": "Bartender/IT support",
+        "company":"Spis I Nyhavn",
+        "summary": "Part time student job with extra responsibilities as IT support.",
+        "range": "June 2017 - 2019 January"
+    },
+    {
+        "role": "Technician",
+        "company": "Elinta",
+        "summary": "Diesel truck conversion to hybrid, automation solution and industrial robot assembly, installation and maintenance. PLC programming.",
+        "range": "June 2018 - August 2018"
+    }
+]

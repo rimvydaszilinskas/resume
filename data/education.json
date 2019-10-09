@@ -1,0 +1,20 @@
+[
+    {
+        "school": "KEA - Copenhagen School of Design and Technology",
+        "degree": "AP degree in Computer Science",
+        "major": "Agile/Scrum methodologies, algorigthms, software and database architecture. Development using Python + Django and Flask, Java + Spring Boot, Angular and Machine Learning",
+        "range": "2017 - 2020"
+    },
+    {
+        "school": "Lithuanian Sports Academy",
+        "degree": "Fitness instructor license",
+        "major": "Fast paced courses to become fitness instructor.",
+        "range": "2018"
+    },
+    {
+        "school": "KTU Engineering Lyceum",
+        "degree": "Engineering High School diploma",
+        "major": "High school with specialisation in mathematics, physics, IT and engineering",
+        "range": "2004 - 2016"
+    }
+]
