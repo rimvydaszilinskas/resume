@@ -7,8 +7,9 @@
             "JavaScript",
             "TypeScript",
             "Dart",
-            "C/C++",
-            "C#"
+            "C#",
+            "C",
+            "C++"
         ]
     },
     {
@@ -29,7 +30,8 @@
         "skills": [
             "RESTful APIs",
             "Microservices",
-            "IoT"
+            "IoT",
+            "ROS"
         ]
     },
     {
@@ -37,6 +39,7 @@
         "skills": [
             "MySQL",
             "PostgreSQL",
+            "PostGIS",
             "MongoDB",
             "Redis"
         ]
