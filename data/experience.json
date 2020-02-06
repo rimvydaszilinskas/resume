@@ -1,5 +1,11 @@
 [
     {
+        "role": "Software Developer",
+        "company": "Meili",
+        "summary": "Fleet management system prototype development, ROS integration",
+        "range": "November 2019 - Present"
+    },
+    {
         "role": "Junior Software Developer",
         "company": "Ticketbutler",
         "summary": "Backend system development using Django, PostgreSQL, Redis, Celery. Development of platform extending label printer.",
