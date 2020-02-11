@@ -16,6 +16,7 @@
         "grouping": "Frameworks",
         "skills": [
             "Django",
+            "Dotnet",
             "Spring MVC",
             "NodeJS",
             "Flutter",
@@ -55,11 +56,10 @@
     {
         "grouping": "Cloud",
         "skills": [
-            "Google Cloud Platform",
+            "Google-Cloud-Platform",
             "AWS",
             "Docker",
-            "CI/CD",
-            "Travis CI"
+            "Travis"
         ]
     }
 ]

@@ -16,10 +16,11 @@ theme = "resume"
     showSkills = true
     showPorjects = true
     showOpenSource = false
-    showPublications = true
+    showPublications = false
     showExperience = true
     showEducation = true
     showQR = true
+    showBlog = true
 
     gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
 
