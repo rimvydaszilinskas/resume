@@ -12,6 +12,7 @@ theme = "resume"
     contactNote = "Developer"
     email = "rimvydas.zilinskas@yahoo.com"
     description = "Junior Software Developer"
+    profileImage = '/profile.jpg'
 
     showSkills = true
     showPorjects = true

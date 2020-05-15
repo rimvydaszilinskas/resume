@@ -3,6 +3,7 @@
         "grouping": "Languages",
         "skills": [
             "Python",
+            "Go",
             "Java",
             "JavaScript",
             "TypeScript",
@@ -18,7 +19,6 @@
             "Django",
             "Dotnet",
             "Spring MVC",
-            "NodeJS",
             "Flutter",
             "React",
             "Express",
@@ -32,7 +32,8 @@
             "RESTful APIs",
             "Microservices",
             "IoT",
-            "ROS"
+            "ROS",
+            "CI/CD"
         ]
     },
     {
